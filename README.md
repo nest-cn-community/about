@@ -14,6 +14,12 @@ nestjs 框架在国外已经有很多大型企业在使用([link](https://docs.n
 - 开发过程中的 bug 记录
 - 各类典型问题的解决方案(寻求最优解)
 
+## 项目介绍
+
+- [issues-box](https://github.com/nest-cn-community/issues-box) nestjs 相关技术的问题收纳盒
+- [idea-storm](https://github.com/nest-cn-community/idea-storm) nestjs 相关技术的学习心得分享
+- [demo-land](https://github.com/nest-cn-community/demo-land) nestjs 相关 demo 项目汇总
+
 ## 如何参与？
 
 - 申请成为组织的核心贡献者
