@@ -33,3 +33,8 @@ eg:
 贡献频率：周
 github: username
 ```
+
+### 提交规范约定
+
+- 学习心得、技术分享等文本类统一使用 `markdown`
+- 每个 demo 必须有 `README.md` 介绍 demo 以及如何运行使用
